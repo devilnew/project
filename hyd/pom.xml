@@ -38,7 +38,7 @@
         <logback.version>1.0.0</logback.version>
         <slf4j.version>1.6.4</slf4j.version>
 
-        <junit.version>4.9</junit.version>
+        <junit.version>4.13.1</junit.version>
 
         <cargo.version>1.1.2</cargo.version>
         <tomcat.version>7.0.23</tomcat.version>
